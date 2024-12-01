@@ -5,7 +5,7 @@ Unofficial OpenGL Wrapper with utility extension.
 
 ## Features
 - glw
-  - Enumurated OpenGL types & flags
+  - Enumerated OpenGL types & flags
   - Encapsulated OpenGL handle classes
     - Context
     - ErrorQueue
